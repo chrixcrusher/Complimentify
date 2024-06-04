@@ -28,10 +28,15 @@ Additionally, the program provides the option to output the compliment as a PNG 
 The design choices aim to create an engaging and enjoyable user experience.
 
 **Versions:**
+
 **complimentify.py**: This is a basic version of complimentify without the export to PNG capabilities. 
+
 **complimentify_c.py**: This is a basic version of complimentify without the export to PNG capabilities and comprehensive comments for each line to help viewers understand the flow of code.
+
 **complimentify_png.py**: This is the current version of the program, which generates a compliment and a png output in a light mode style. It is similar to main.py but with some modifications to the design.
+
 **complimentify_png_c.py**: This is the program version, which generates a compliment and a PNG output in a light mode style with comprehensive comments for each line to help viewers understand the code flow.
+
 **complimentify_bw_png.py**: This is another program version, which generates a compliment and a png output in a dark mode style. It is similar to main.py but with some modifications to the design.
 
 **Additional:**
