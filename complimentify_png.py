@@ -26,7 +26,6 @@ def main():
     print("Great. Hope this helps you:")
     compliment = get_random_compliment()
     compliment_name = f"{name}, {compliment}"
-    print(compliment_name)  # to be deleted
     characters = ['beavis', 'cheese', 'cow', 'daemon', 'dragon', 'fox', 'ghostbusters', 'kitty',
                   'meow', 'miki', 'milk', 'octopus', 'pig', 'stegosaurus', 'stimpy', 'trex', 
                   'turkey', 'turtle', 'tux']
